@@ -51,5 +51,5 @@ r4.append(final[7])
 r5 = []
 r5.append(final[8])
 r5.append(final[9])
-print("samyi kratchaishii put'", x, '=>', r2,'=>', r3,'=>', r4, '=>', r5,'=>',x )
+print("samyi kratchaishii put'", x, '=>', r2,'=>', r3,'=>', r4, '=>', r5,'=>',x, 'i sostavlyaet =' , dq.get(min) )
 
